@@ -5,3 +5,7 @@
 (fact "My silly test"
   (+ 10 32)
   => 42)
+
+(fact "My silly test 2"
+  (+ 10 22)
+  => 42)
